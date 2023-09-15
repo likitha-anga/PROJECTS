@@ -1,0 +1,54 @@
+{
+    "user": [
+        {
+            "username": "Likitha",
+            "password": "Liki@123",
+            "Profile": {
+                "description": "Anga Likitha",
+                "D.O.B": "13-10-2003",
+                "Gender": "female",
+                "Hobbies": "dancing,always doing coding"
+            }
+        },
+        {
+            "username": "indumathi",
+            "password": "Liki@123",
+            "Profile": {
+                "Description": "fghj",
+                "D.O.B": "235",
+                "Gender": "sdfgh",
+                "Hobbies": "356"
+            }
+        },
+        {
+            "username": "sai",
+            "password": "Sai@123",
+            "Profile": {
+                "Description": "my name is sai",
+                "D.O.B": "2-3-2002",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        },
+        {
+            "username": "Nagamani",
+            "password": "Naga@123",
+            "Profile": {
+                "Description": "dance",
+                "D.O.B": "9/10/2003",
+                "Gender": "female",
+                "Hobbies": "mehandi"
+            }
+        },
+        {
+            "username": "ANU Radha",
+            "password": "Anu@123",
+            "Profile": {
+                "Description": "basket ball player",
+                "D.O.B": "2/10/2002",
+                "Gender": "femail",
+                "Hobbies": "dance"
+            }
+        }
+    ]
+}
